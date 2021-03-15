@@ -1,0 +1,4 @@
+#!/bin/bash
+
+#Going to the sentiment_analyser/api.py and referencing to the app
+uvicorn sentiment_analyzer.api:app
