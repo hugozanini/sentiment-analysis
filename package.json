@@ -2,11 +2,11 @@
   "name": "sentiment-analysis-web",
   "version": "1.0.0",
   "description": "",
-  "keywords": [],
   "main": "index.js",
   "dependencies": {
-    "node-sass": "^4.14.1",
-    "plotly.js": "^1.58.4"
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-scripts": "^4.0.3"
   },
   "devDependencies": {},
   "scripts": {
@@ -21,6 +21,14 @@
     "not ie <= 11",
     "not op_mini all"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hugozanini/sentiment-analysis.git"
+  },
   "author": "Hugo Zanini",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hugozanini/sentiment-analysis/issues"
+  },
+  "homepage": "https://github.com/hugozanini/sentiment-analysis#readme"
 }
