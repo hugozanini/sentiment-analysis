@@ -1,0 +1,10 @@
+#!/bin/bash
+
+echo "Starting up the Stack"
+git clone --single-branch --branch api https://github.com/hugozanini/sentiment-analysis.git
+mv sentiment-analysis sentiment-analysis-api
+
+git clone --single-branch --branch web https://github.com/hugozanini/sentiment-analysis.git
+mv sentiment-analysis sentiment-analysis-web
+
+sudo docker-compose up
