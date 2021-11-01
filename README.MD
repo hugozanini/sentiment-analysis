@@ -14,7 +14,7 @@ The project is based on microservices and all the architecture is built as code 
 <img src="https://raw.githubusercontent.com/hugozanini/sentiment-analysis/main/media/flow_data.png" width="600">
 
 
-### References
+### Referências
 [0] Vaswani, Ashish, et al. “Attention is all you need.” _arXiv preprint arXiv:1706.03762_ (2017).
 
 [1] Devlin, Jacob, et al. “Bert: Pre-training of deep bidirectional transformers for language understanding.” _arXiv preprint arXiv:1810.04805_ (2018).
